@@ -1,0 +1,26 @@
+ [
+    {"admit": 0, "gre": 380, "gpa": 3.21, "rank": 3},
+    {"admit": 1, "gre": 660, "gpa": 3.67, "rank": 3},
+    {"admit": 1, "gre": 800, "gpa": 4, "rank": 1},
+    {"admit": 1, "gre": 640, "gpa": 3.19, "rank": 4},
+    {"admit": 0, "gre": 520, "gpa": 2.33, "rank": 4},
+    {"admit": 1, "gre": 760, "gpa": 3, "rank": 2},
+    {"admit": 1, "gre": 560, "gpa": 2.98, "rank": 1},
+    {"admit": 0, "gre": 400, "gpa": 3.08, "rank": 2},
+    {"admit": 1, "gre": 540, "gpa": 3.39, "rank": 3},
+    {"admit": 0, "gre": 710, "gpa": 3.66, "rank": 4},
+    {"admit": 0, "gre": 450, "gpa": 3.25, "rank": 4},
+    {"admit": 1, "gre": 760, "gpa": 3.76, "rank": 2},
+    {"admit": 1, "gre": 710, "gpa": 3.82, "rank": 3},
+    {"admit": 0, "gre": 450, "gpa": 3.25, "rank": 4},
+    {"admit": 1, "gre": 760, "gpa": 3.76, "rank": 2},
+    {"admit": 1, "gre": 710, "gpa": 3.82, "rank": 3},
+    {"admit": 0, "gre": 450, "gpa": 3.25, "rank": 4},
+    {"admit": 1, "gre": 760, "gpa": 3.76, "rank": 2},
+    {"admit": 1, "gre": 710, "gpa": 3.82, "rank": 3},
+    {"admit": 0, "gre": 450, "gpa": 3.25, "rank": 4},
+    {"admit": 1, "gre": 760, "gpa": 3.76, "rank": 2},
+    {"admit": 1, "gre": 710, "gpa": 3.82, "rank": 3}
+]
+
+
