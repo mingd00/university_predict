@@ -17,12 +17,14 @@ def predict():
 
     #사용자가 입력한 값 불러오기
     data_list = request.get_json()['data_list']
+    print(data_list)
 
     #데이터 형태 맞춰주기
     input_query = np.array([data_list], dtype=np.float32)
+    print(input_query)
 
 	#모델과 비교
-    result = model.predict(input_query)[0]
+    result = model.predict(input_query)
     
     # 백분위로 변환하고 소수점 뒤에 숫자 없애기
     result = int(result[0] * 100)
